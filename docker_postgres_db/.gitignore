@@ -1,0 +1,10 @@
+# Database data directory
+data/
+data/*
+**/data/pgdata/
+
+# Environment files
+.env
+
+# OS specific
+.DS_Store
