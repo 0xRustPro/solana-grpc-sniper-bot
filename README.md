@@ -1,4 +1,3 @@
-![Solana Sniper Logo](./assets/Real-time-sniper.png)
 
 # Solana Grpc Sniper Bot
 A simple, fast, powerful Library for building custom trading strategies on Solana. It's built for speed, variety, and real-time data, using Cutting-edge Tech. Here's what you get:
@@ -201,8 +200,6 @@ This software is provided "as is", without warranty of any kind, express or impl
 **Use at your own risk.** The authors take no responsibility for any harm or damage caused by the use of this software. Users are responsible for ensuring the suitability and safety of this software for their specific use cases.
 
 By using this software, you acknowledge that you have read, understood, and agree to this disclaimer.
-
-### Discord channel: https://discord.gg/dc3Kh3Y3yJ
 
 ### If you think this will steal your keys, i have no time to convince you to use it.
 
